@@ -46,6 +46,7 @@ npm run dev
 
 ## 📁 Project Structure
 
+```
 incomeTax_filing/
 ├── src/
 │ ├── assets/
@@ -60,16 +61,15 @@ incomeTax_filing/
 ├── vite.config.js
 ├── tailwind.config.js
 ├── README.md
+```
 
 ## 🎯 Usage
 
-```
 - Navigate sections using the Navbar (Home, Individual/HUF, Company).
 - Use the hamburger menu and Quick Links sidebar on mobile for essential tools.
 - Explore the Success Enablers section to learn about key features.
 - Access About Us, Contact Us, and social media in the Footer.
 - Use the Scroll to Top button for easy navigation after scrolling.
-```
 
 ## 🤝 Contributing
 
